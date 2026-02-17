@@ -1,5 +1,5 @@
 
-### Askinh
+### How to ask
 
 ## Subject: Architecture Check: Docker vs. rkt On-Disk Storage
 
